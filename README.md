@@ -3,7 +3,6 @@
 ### 🔭 I’m currently working on intie.cloud
 ### 📫 How to reach me: charlie@intie.cloud
 ### 🏫 Studying Computer Science
-### ⭐ Awesome Shit github.com/stars/krisp-ai/lists/awesome-shit
 
 <!--
 **krisp-ai/krisp-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
