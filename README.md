@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### 🔭 I’m currently working on IntieCloud
+### 🔭 I’m currently working on IntieProducts incl IntieCloud, CMS and Manager
 ### 👯 We're Hiring! - Looking for top talent to help us build
 ### 📫 How to reach me: charlie@intie.cloud
 
