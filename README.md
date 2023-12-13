@@ -3,7 +3,6 @@
 ### 🔭 I’m currently working on IntieCloud
 ### 👯 We're Hiring! - Looking for top talent to help us build
 ### 📫 How to reach me: charlie@intie.cloud
-### 🏫 Studying Computer Science
 
 <!--
 **krisp-ai/krisp-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
