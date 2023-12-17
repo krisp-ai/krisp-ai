@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Charlie</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
-- 🔭 I’m currently working on [IntieProducts](https://intie.cloud)
+- 🔭 I’m currently working on [IntieVentures](https://intie.cloud)
 
 - 👯 We're Hiring! [IntieCloud](https://intie.cloud)
 
